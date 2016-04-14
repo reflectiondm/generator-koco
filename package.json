@@ -1,0 +1,21 @@
+{
+  "name": "generator-koco",
+  "version": "0.1.0",
+  "description": "YO generator for knockout components",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Andrei Zubov",
+  "license": "ISC",
+  "files": [
+      "generator/app",
+      "generator/component",
+      "generator/view-model"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
